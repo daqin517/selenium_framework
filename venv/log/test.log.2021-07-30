@@ -1,0 +1,100 @@
+2021-07-30 09:50:32,710 - framework - WARNING - warning log
+2021-07-30 09:50:32,711 - framework - INFO - info log
+2021-07-30 09:50:34,646 - framework - INFO - 发送邮件Test_Mail成功，收件人：921497786@qq.com
+2021-07-30 14:02:33,373 - framework - WARNING - warning log
+2021-07-30 14:02:33,374 - framework - INFO - info log
+2021-07-30 14:02:33,374 - framework - INFO - attach file C:\Program Files\JetBrains\test_framework\venv\report\testreport.html
+2021-07-30 14:02:34,728 - framework - INFO - 发送邮件Test_Mail成功，收件人：921497786@qq.com
+2021-07-30 14:03:40,547 - framework - WARNING - warning log
+2021-07-30 14:03:40,548 - framework - INFO - info log
+2021-07-30 14:03:48,375 - framework - INFO - 《扫黑风暴》定档,孙红雷张艺兴主演,有真实案例,备受观众...
+2021-07-30 14:03:48,391 - framework - INFO - 张艺兴吧_百度贴吧
+2021-07-30 14:03:48,407 - framework - INFO - 张艺兴代言CALVIN KLEIN
+2021-07-30 14:03:48,423 - framework - INFO - 张艺兴 Yixing Zhang
+2021-07-30 14:03:48,441 - framework - INFO - 张艺兴明星资料大全-张艺兴动态_张艺兴电视剧电影-爱奇艺...
+2021-07-30 14:03:48,457 - framework - INFO - 张艺兴个人微博 @ 努力努力再努力x
+2021-07-30 14:03:48,473 - framework - INFO - 张艺兴解锁顶级视听品牌 中国区首全球品牌代言人_娱乐频道...
+2021-07-30 14:03:48,490 - framework - INFO - 张艺兴小说 - 最热张艺兴小说推荐 - 话本小说网
+2021-07-30 14:03:48,505 - framework - INFO - 《向往5》收官大华没来,张艺兴请客喝饮料,瓶盖上手写字体...
+2021-07-30 14:03:58,313 - framework - INFO - selenium - 百度翻译
+2021-07-30 14:03:58,330 - framework - INFO - Selenium(WEB自动化工具) - 百度百科
+2021-07-30 14:03:58,344 - framework - INFO - Selenium automates browsers. That's it!
+2021-07-30 14:03:58,357 - framework - INFO - 官方
+2021-07-30 14:03:58,371 - framework - INFO - Python+Selenium详解(超全)
+2021-07-30 14:03:58,388 - framework - INFO - selenium中文网 | selenium安装、selenium使用、selenium...
+2021-07-30 14:03:58,403 - framework - INFO - 功能自动化测试工具——Selenium篇
+2021-07-30 14:03:58,417 - framework - INFO - selenium吧 - 百度贴吧
+2021-07-30 14:03:58,440 - framework - INFO - selenium基础入门_叶常落的博客-CSDN博客_selenium
+2021-07-30 14:04:03,625 - framework - INFO - 蔡徐坤吧_百度贴吧
+2021-07-30 14:04:03,641 - framework - INFO - 为什么蔡徐坤的小名是小葵?出道之后,他一直饱受争议
+2021-07-30 14:04:03,659 - framework - INFO - 蔡徐坤明星资料大全-蔡徐坤动态_蔡徐坤电视剧电影-爱奇艺...
+2021-07-30 14:04:03,675 - framework - INFO - 蔡徐坤的微博_微博
+2021-07-30 14:04:03,690 - framework - INFO - 蔡徐坤-哔哩哔哩频道
+2021-07-30 14:04:03,706 - framework - INFO - 蔡徐坤小说 - 最热蔡徐坤小说推荐 - 话本小说网
+2021-07-30 14:04:03,721 - framework - INFO - 蔡徐坤超话—新浪微博超话社区
+2021-07-30 14:04:03,737 - framework - INFO - 如何评价蔡徐坤? - 知乎
+2021-07-30 14:04:03,753 - framework - INFO - 蔡徐坤 Xukun Cai
+2021-07-30 14:04:08,946 - framework - INFO - 《扫黑风暴》定档,孙红雷张艺兴主演,有真实案例,备受观众...
+2021-07-30 14:04:08,980 - framework - INFO - 张艺兴吧_百度贴吧
+2021-07-30 14:04:09,021 - framework - INFO - 张艺兴代言CALVIN KLEIN
+2021-07-30 14:04:09,046 - framework - INFO - 张艺兴 Yixing Zhang
+2021-07-30 14:04:09,063 - framework - INFO - 张艺兴明星资料大全-张艺兴动态_张艺兴电视剧电影-爱奇艺...
+2021-07-30 14:04:09,080 - framework - INFO - 张艺兴个人微博 @ 努力努力再努力x
+2021-07-30 14:04:09,096 - framework - INFO - 张艺兴解锁顶级视听品牌 中国区首全球品牌代言人_娱乐频道...
+2021-07-30 14:04:09,111 - framework - INFO - 张艺兴小说 - 最热张艺兴小说推荐 - 话本小说网
+2021-07-30 14:04:09,128 - framework - INFO - 《向往5》收官大华没来,张艺兴请客喝饮料,瓶盖上手写字体...
+2021-07-30 14:04:24,589 - framework - WARNING - warning log
+2021-07-30 14:04:24,589 - framework - INFO - info log
+2021-07-30 14:04:24,590 - framework - INFO - attach file C:\Program Files\JetBrains\test_framework\venv\report\testreport.html
+2021-07-30 14:04:26,810 - framework - INFO - 发送邮件Test_Mail成功，收件人：921497786@qq.com
+2021-07-30 14:07:25,109 - framework - WARNING - warning log
+2021-07-30 14:07:25,109 - framework - INFO - info log
+2021-07-30 14:07:32,676 - framework - INFO - 《扫黑风暴》定档,孙红雷张艺兴主演,有真实案例,备受观众...
+2021-07-30 14:07:32,695 - framework - INFO - 张艺兴吧_百度贴吧
+2021-07-30 14:07:32,710 - framework - INFO - 张艺兴代言CALVIN KLEIN
+2021-07-30 14:07:32,726 - framework - INFO - 张艺兴 Yixing Zhang
+2021-07-30 14:07:32,742 - framework - INFO - 张艺兴明星资料大全-张艺兴动态_张艺兴电视剧电影-爱奇艺...
+2021-07-30 14:07:32,757 - framework - INFO - 张艺兴个人微博 @ 努力努力再努力x
+2021-07-30 14:07:32,773 - framework - INFO - 张艺兴小说 - 最热张艺兴小说推荐 - 话本小说网
+2021-07-30 14:07:32,789 - framework - INFO - 《向往5》收官大华没来,张艺兴请客喝饮料,瓶盖上手写字体...
+2021-07-30 14:07:32,806 - framework - INFO - 张艺兴-哔哩哔哩频道
+2021-07-30 14:07:44,252 - framework - INFO - selenium - 百度翻译
+2021-07-30 14:07:44,269 - framework - INFO - Selenium(WEB自动化工具) - 百度百科
+2021-07-30 14:07:44,285 - framework - INFO - Selenium automates browsers. That's it!
+2021-07-30 14:07:44,299 - framework - INFO - 官方
+2021-07-30 14:07:44,315 - framework - INFO - Python+Selenium详解(超全)
+2021-07-30 14:07:44,332 - framework - INFO - selenium中文网 | selenium安装、selenium使用、selenium...
+2021-07-30 14:07:44,348 - framework - INFO - 功能自动化测试工具——Selenium篇
+2021-07-30 14:07:44,364 - framework - INFO - selenium吧 - 百度贴吧
+2021-07-30 14:07:44,379 - framework - INFO - selenium基础入门_叶常落的博客-CSDN博客_selenium
+2021-07-30 14:07:49,543 - framework - INFO - 蔡徐坤:黑暗过后即是黎明|张艺兴|王承渲|跑男_网易订阅
+2021-07-30 14:07:49,581 - framework - INFO - 蔡徐坤吧_百度贴吧
+2021-07-30 14:07:49,596 - framework - INFO - 蔡徐坤明星资料大全-蔡徐坤动态_蔡徐坤电视剧电影-爱奇艺...
+2021-07-30 14:07:49,611 - framework - INFO - 蔡徐坤的微博_微博
+2021-07-30 14:07:49,627 - framework - INFO - 蔡徐坤-哔哩哔哩频道
+2021-07-30 14:07:49,642 - framework - INFO - 蔡徐坤小说 - 最热蔡徐坤小说推荐 - 话本小说网
+2021-07-30 14:07:49,658 - framework - INFO - 蔡徐坤超话—新浪微博超话社区
+2021-07-30 14:07:49,673 - framework - INFO - 如何评价蔡徐坤? - 知乎
+2021-07-30 14:07:49,688 - framework - INFO - 蔡徐坤 Xukun Cai
+2021-07-30 14:07:54,906 - framework - INFO - 《扫黑风暴》定档,孙红雷张艺兴主演,有真实案例,备受观众...
+2021-07-30 14:07:54,930 - framework - INFO - 张艺兴吧_百度贴吧
+2021-07-30 14:07:54,944 - framework - INFO - 张艺兴代言CALVIN KLEIN
+2021-07-30 14:07:54,960 - framework - INFO - 张艺兴 Yixing Zhang
+2021-07-30 14:07:54,976 - framework - INFO - 张艺兴明星资料大全-张艺兴动态_张艺兴电视剧电影-爱奇艺...
+2021-07-30 14:07:54,991 - framework - INFO - 张艺兴个人微博 @ 努力努力再努力x
+2021-07-30 14:07:55,008 - framework - INFO - 张艺兴小说 - 最热张艺兴小说推荐 - 话本小说网
+2021-07-30 14:07:55,026 - framework - INFO - 《向往5》收官大华没来,张艺兴请客喝饮料,瓶盖上手写字体...
+2021-07-30 14:07:55,042 - framework - INFO - 张艺兴-哔哩哔哩频道
+2021-07-30 14:11:54,389 - framework - WARNING - warning log
+2021-07-30 14:11:54,389 - framework - INFO - info log
+2021-07-30 14:12:01,894 - framework - INFO - 《扫黑风暴》定档,孙红雷张艺兴主演,有真实案例,备受观众...
+2021-07-30 14:12:01,911 - framework - INFO - 张艺兴吧_百度贴吧
+2021-07-30 14:12:01,926 - framework - INFO - 张艺兴代言CALVIN KLEIN
+2021-07-30 14:12:01,940 - framework - INFO - 张艺兴 Yixing Zhang
+2021-07-30 14:12:01,956 - framework - INFO - 张艺兴明星资料大全-张艺兴动态_张艺兴电视剧电影-爱奇艺...
+2021-07-30 14:12:01,977 - framework - INFO - 张艺兴个人微博 @ 努力努力再努力x
+2021-07-30 14:12:01,997 - framework - INFO - 张艺兴小说 - 最热张艺兴小说推荐 - 话本小说网
+2021-07-30 14:12:02,013 - framework - INFO - 《向往5》收官大华没来,张艺兴请客喝饮料,瓶盖上手写字体...
+2021-07-30 14:12:02,028 - framework - INFO - 张艺兴-哔哩哔哩频道
+2021-07-30 14:12:05,164 - framework - INFO - attach file C:\Program Files\JetBrains\test_framework\venv\report\testreport.html
+2021-07-30 14:12:05,956 - framework - INFO - 发送邮件Test_Mail成功，收件人：921497786@qq.com
